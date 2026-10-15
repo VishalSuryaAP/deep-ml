@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:10:34.366Z",
+  "generated_at": "2026-10-15T00:10:46.562Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -365,7 +365,7 @@
       "url": "https://www.deep-ml.com/problems/329",
       "path": "problems/0329-matrix-rank",
       "first_solved_at": "2026-10-15T00:05:26.405Z",
-      "last_pushed_at": "2026-10-15T00:10:34.191Z",
+      "last_pushed_at": "2026-10-15T00:10:46.337Z",
       "language": "python",
       "lines": 44
     }
